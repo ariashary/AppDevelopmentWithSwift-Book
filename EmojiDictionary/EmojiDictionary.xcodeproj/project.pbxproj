@@ -13,6 +13,8 @@
 		BD3AADF5234331E300B0000B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD3AADF3234331E300B0000B /* LaunchScreen.storyboard */; };
 		BD3AADFD2343324400B0000B /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3AADFC2343324400B0000B /* Emoji.swift */; };
 		BD3AADFF2343345100B0000B /* EmojiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3AADFE2343345100B0000B /* EmojiTableViewController.swift */; };
+		BD3AAE252343536F00B0000B /* EmojiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3AAE242343536F00B0000B /* EmojiTableViewCell.swift */; };
+		BD3AAE2723435EA300B0000B /* AddEditTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3AAE2623435EA300B0000B /* AddEditTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BD3AADF6234331E300B0000B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD3AADFC2343324400B0000B /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 		BD3AADFE2343345100B0000B /* EmojiTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewController.swift; sourceTree = "<group>"; };
+		BD3AAE242343536F00B0000B /* EmojiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiTableViewCell.swift; sourceTree = "<group>"; };
+		BD3AAE2623435EA300B0000B /* AddEditTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddEditTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				BD3AADEA234331E100B0000B /* AppDelegate.swift */,
 				BD3AADFC2343324400B0000B /* Emoji.swift */,
 				BD3AADFE2343345100B0000B /* EmojiTableViewController.swift */,
+				BD3AAE242343536F00B0000B /* EmojiTableViewCell.swift */,
+				BD3AAE2623435EA300B0000B /* AddEditTableViewController.swift */,
 				BD3AADEE234331E100B0000B /* Main.storyboard */,
 				BD3AADF1234331E300B0000B /* Assets.xcassets */,
 				BD3AADF3234331E300B0000B /* LaunchScreen.storyboard */,
@@ -140,7 +146,9 @@
 			files = (
 				BD3AADFD2343324400B0000B /* Emoji.swift in Sources */,
 				BD3AADFF2343345100B0000B /* EmojiTableViewController.swift in Sources */,
+				BD3AAE252343536F00B0000B /* EmojiTableViewCell.swift in Sources */,
 				BD3AADEB234331E100B0000B /* AppDelegate.swift in Sources */,
+				BD3AAE2723435EA300B0000B /* AddEditTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
